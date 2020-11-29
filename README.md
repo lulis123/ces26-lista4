@@ -6,15 +6,14 @@
 #ITA, COMP-21
 
 # Primeira utilização
-## Clone o repositório front-end
+### Clone o repositório front-end
 $ git clone https://github.com/lulis123/ces26-lista4
-## Entre no repositório
+### Entre no repositório
 $ cd front-vestibulinho-casd
-
-## Rodar a API
+### Rodar a API
 $ node server.js
 
-#Padrão de pastas
+# Padrão de pastas
 - Public: pasta que contém tudo que é acessado pelo client-side da aplicação: index.html e a aplicação AJAX no script.js
 - Static: como não estamos mudando o banco de dados, o static contem o db que será enviado ao usuário
 - Uploads: pasta em que é feito o upload do usuário
