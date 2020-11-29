@@ -1,4 +1,4 @@
-<img alt="ITA" title="#front-vestibulinho-casd" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogodownload.org%2Fita-logo-instituto-tecnologico-de-aeronautica-logo%2F&psig=AOvVaw1NGO2UUZ3GCqElfdPPt2e9&ust=1606774518027000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCFuNXjqO0CFQAAAAAdAAAAABAD" width="200px" />
+<img alt="ITA" title="#front-vestibulinho-casd" src="https://logodownload.org/wp-content/uploads/2018/01/ita-logo.png" width="200px" />
 
 ### [CES-26] Lista 4
 #Resolução da lista 4 de CES-6: Desenvolvimento web
