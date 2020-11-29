@@ -1,5 +1,6 @@
 const express = require('express');
 const path = require('path');
+const database = require('./static/database.json');
 const multer = require('multer');
 const app = express();
 
@@ -27,6 +28,9 @@ app.get('/process_get', (req,res)=>{
     }
     console.log(response);
     res.end(JSON.stringify(response))
+})
+app.get('/getDatabase',(req,res)=>{
+    res.end(JSON.stringify(database));
 })
 
 app.post('/file_upload', 
