@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="">
+    </head>
+    <body style="align-content: center;">
+        <h1>CES-26 Lista 4</h1>
+        <h2>Este é um arquivo estático que está sendo provido pelo servidor express</h2> 
+        <h3>O arquivo está dentro da pasta '/public' do servidor</h3>
+        <form action ="http://localhost:8081/process_get">
+            First Name: <input type="text" name="first_name"/> <br/>
+            Last Name: <input type="text" name="last_name"/> <br/>
+            <input type="submit" value="Submit"/>
+        </form>             
+        <br/>
+        <form action ="http://localhost:8081/file_upload" method="post" enctype = "multipart/form-data">
+            <input type = "file" name="file" size="50"/> <br/>
+            <input type = "submit" value = "Upload File"/>
+        </form>
+        <script src="" async defer></script>
+    </body>
+</html>
