@@ -8,8 +8,6 @@
 # Primeira utilização
 ## Clone o repositório front-end
 $ git clone https://github.com/lulis123/ces26-lista4
-
-# Primeira utilização
 ## Entre no repositório
 $ cd front-vestibulinho-casd
 
