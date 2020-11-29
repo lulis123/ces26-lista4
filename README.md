@@ -1,23 +1,19 @@
 <img alt="ITA" title="#front-vestibulinho-casd" src="https://logodownload.org/wp-content/uploads/2018/01/ita-logo.png" width="500px" />
 
 ### [CES-26] Lista 4
-#Resolução da lista 4 de CES-6: Desenvolvimento web
-#Aluno: Luís Eduardo Martins Lauro
+#Resolução da lista 4 de CES-6: Desenvolvimento web\
+#Aluno: Luís Eduardo Martins Lauro\
 #ITA, COMP-21
 
-### Iniciando a API
-#Verificar se existe Node.jse npm instalados na sua máquina antes de iniciar com o projeto.
-
 # Primeira utilização
-# Clone o repositório front-end
+## Clone o repositório front-end
 $ git clone https://github.com/lulis123/ces26-lista4
 
 # Primeira utilização
-# Entre no repositório
+## Entre no repositório
 $ cd front-vestibulinho-casd
 
-#Sempre
-# Rodar a API
+## Rodar a API
 $ node server.js
 
 #Padrão de pastas
