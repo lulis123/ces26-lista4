@@ -1,4 +1,7 @@
-# ces26-lista4
+## [CES-26] Lista 4
+Resolução da lista 4 de CES-6: Desenvolvimento web
+Aluno: Luís Eduardo Martins Lauro
+ITA, COMP-21
 
 #Iniciando a API
 #Verificar se existe Node.jse npm instalados na sua máquina antes de iniciar com o projeto.
