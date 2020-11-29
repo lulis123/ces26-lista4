@@ -1,6 +1,6 @@
 <img alt="ITA" title="#front-vestibulinho-casd" src="https://logodownload.org/wp-content/uploads/2018/01/ita-logo.png" width="500px" />
 
-### [CES-26] Lista 4
+# [CES-26] Lista 4
 Resolução da lista 4 de CES-6: Desenvolvimento web\
 Aluno: Luís Eduardo Martins Lauro\
 ITA, COMP-21
