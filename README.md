@@ -1,7 +1,7 @@
 # ces26-lista4
 
-Iniciando a API
-Verificar se existe Node.jse npm instalados na sua máquina antes de iniciar com o projeto.
+#Iniciando a API
+#Verificar se existe Node.jse npm instalados na sua máquina antes de iniciar com o projeto.
 
 # Primeira utilização
 # Clone o repositório front-end
