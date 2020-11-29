@@ -9,7 +9,7 @@ ITA, COMP-21
 ### Clone o repositório front-end
 $ git clone https://github.com/lulis123/ces26-lista4
 ### Entre no repositório
-$ cd front-vestibulinho-casd
+$ cd ces26-lista4
 ### Rodar a API
 $ node server.js
 
